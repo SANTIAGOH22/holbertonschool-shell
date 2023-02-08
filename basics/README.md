@@ -1,2 +1,2 @@
-ls -l read the content of the current directory in a long format
+ls -a Display current directory contents, including hidden files (starting with .). Use the long format.
 
