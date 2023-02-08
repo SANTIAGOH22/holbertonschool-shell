@@ -1,2 +1,2 @@
-pwd This command is used to know where I am standing
+cd used to change the current working directory
 
